@@ -1,0 +1,7 @@
+{
+  "block.npccrowd.npc_spawner": "NPC Spawner",
+  "entity.npccrowd.npc": "NPC",
+
+  "category.npccrowd.main": "NPC Crowd",
+  "key.npccrowd.randomize_self": "Randomize my gear"
+}
