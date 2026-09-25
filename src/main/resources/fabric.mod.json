@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "npcspawner",
+  "version": "${version}",
+  "name": "NPC Spawn Block",
+  "description": "A block that renders a static, randomly dressed player-model NPC.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.npcspawner.NpcSpawnerMod"],
+    "client": ["com.npcspawner.client.NpcSpawnerClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.4",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
