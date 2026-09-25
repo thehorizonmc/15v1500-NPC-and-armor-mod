@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "hidden=false": { "model": "npccrowd:block/npc_spawner" },
-    "hidden=true":  { "model": "npccrowd:block/npc_spawner_hidden" }
-  }
-}
